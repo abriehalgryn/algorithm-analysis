@@ -1,4 +1,4 @@
-6# this will import all the neccecary modules and functions to make the program work
+# this will import all the neccecary modules and functions to make the program work
 import time
 import os
 from utils import getRandomArray
