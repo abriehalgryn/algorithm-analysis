@@ -62,14 +62,3 @@ elapsed_time = time.time() - start_time # in seconds, this value can be multipli
 print ("Sorted array is:", arr)
 print("Time Taken:", float(elapsed_time))
 input(" ") #this line of code is here so that if its run in cmd the window doesnt instantly close
-
-
-print("1. Print the pre-order of the BST")
-print("2. Print the in-order of the BST")
-print("3. Print the post-order of the BST")
-print("4. Print all leaf nodes of the BST, and all non-leaf nodes (separately)")
-print("5. Print the total number of nodes of a sub-tree")
-print("6. Print the depth of a subtree rooted at a particular node")
-print("7. Insert a new integer key into the BST")
-print("8. Delete an integer key from the BST")
-print("9. Exit")
